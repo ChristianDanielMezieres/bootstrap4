@@ -1,0 +1,30 @@
+
+
+.gray {
+    background:#333333;
+}
+
+.orange {
+    background:#ff7f2a;
+}
+
+.black {
+    background:#000000;
+}
+
+.yellow{
+    background:#ffcc00;
+}
+
+
+.whiteborder {
+    border: 1 solid #ffffff;
+}
+
+div {
+    height: 50px;
+      
+}
+
+
+
