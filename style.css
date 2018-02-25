@@ -1,4 +1,4 @@
-
+px
 
 .gray {
     background:#333333;
@@ -18,7 +18,7 @@
 
 
 .whiteborder {
-    border: 1 solid #ffffff;
+    border: 1px solid #ffffff;
     padding-top: 7%;
 }
 
